@@ -1,4 +1,6 @@
-### Hi there 👋
+# ChanLee / Web FE Engineer
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanlee1007)](https://solved.ac/chanlee1007/)
 
 <!--
 **LC-02s/LC-02s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
