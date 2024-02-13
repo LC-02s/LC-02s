@@ -1,4 +1,6 @@
-# ChanLee / Web FE Engineer
+## ChanLee / Web FE Engineer
+
+I have accumulated 2 years and 6 months of experience working at an SI company, where I engaged in web design and publishing tasks. Throughout this period, I successfully led the development and maintenance of 8(+ɑ) projects. My expertise lies in building web standards-compliant, accessible, and compatible markup and styling. I have hands-on experience in constructing responsive web designs and implementing interactive web features.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanlee1007)](https://solved.ac/chanlee1007/)
 
