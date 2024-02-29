@@ -1,7 +1,7 @@
 
 ### ✨ Tech Stack
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-02s&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-02s&langs_count=4&layout=compact)
 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
