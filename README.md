@@ -1,5 +1,3 @@
-##  ChanLee / Web FE Engineer
-
 
 ### Strong
 
