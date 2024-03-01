@@ -18,7 +18,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 -->
 
-### 🏅 Algorithm
+### 🏅 Algorithm (Only JS)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanlee1007)](https://solved.ac/chanlee1007/)
 
