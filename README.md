@@ -1,5 +1,5 @@
 
-### ✨ Tech Stack
+### ✨ JavaScript Lover
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LC-02s&langs_count=4&layout=compact)
 
